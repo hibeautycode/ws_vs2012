@@ -1,0 +1,24 @@
+﻿Build started 2016/2/27 12:45:11.
+     1>Project "E:\workspace_vs2012\257.NearestCommonAncestor\257.NearestCommonAncestor\257.NearestCommonAncestor.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>e:\workspace_vs2012\257.nearestcommonancestor\257.nearestcommonancestor\source.cpp(83): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>e:\workspace_vs2012\257.nearestcommonancestor\257.nearestcommonancestor\source.cpp(93): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>e:\workspace_vs2012\257.nearestcommonancestor\257.nearestcommonancestor\source.cpp(97): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>e:\workspace_vs2012\257.nearestcommonancestor\257.nearestcommonancestor\source.cpp(101): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>e:\workspace_vs2012\257.nearestcommonancestor\257.nearestcommonancestor\source.cpp(104): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>e:\workspace_vs2012\257.nearestcommonancestor\257.nearestcommonancestor\source.cpp(71): warning C4715: 'searchCommonAncestor2' : not all control paths return a value
+       Link:
+         D:\Program Files\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\workspace_vs2012\257.NearestCommonAncestor\Debug\257.NearestCommonAncestor.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\workspace_vs2012\257.NearestCommonAncestor\Debug\257.NearestCommonAncestor.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\workspace_vs2012\257.NearestCommonAncestor\Debug\257.NearestCommonAncestor.lib" /MACHINE:X86 Debug\Source.obj
+         257.NearestCommonAncestor.vcxproj -> E:\workspace_vs2012\257.NearestCommonAncestor\Debug\257.NearestCommonAncestor.exe
+     1>Done Building Project "E:\workspace_vs2012\257.NearestCommonAncestor\257.NearestCommonAncestor\257.NearestCommonAncestor.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.60

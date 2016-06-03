@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "100.CountBiTreeLevelNum", "100.CountBiTreeLevelNum\100.CountBiTreeLevelNum.vcxproj", "{06EB5EF5-955F-4A9C-97E2-9836B5C18722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06EB5EF5-955F-4A9C-97E2-9836B5C18722}.Debug|Win32.ActiveCfg = Debug|Win32
+		{06EB5EF5-955F-4A9C-97E2-9836B5C18722}.Debug|Win32.Build.0 = Debug|Win32
+		{06EB5EF5-955F-4A9C-97E2-9836B5C18722}.Release|Win32.ActiveCfg = Release|Win32
+		{06EB5EF5-955F-4A9C-97E2-9836B5C18722}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

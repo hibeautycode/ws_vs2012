@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2014计算机-B.旋转图像", "2014计算机-B.旋转图像\2014计算机-B.旋转图像.vcxproj", "{B2DB4F2C-2D00-4DC0-A2DC-5DBD68B3A2BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2DB4F2C-2D00-4DC0-A2DC-5DBD68B3A2BE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B2DB4F2C-2D00-4DC0-A2DC-5DBD68B3A2BE}.Debug|Win32.Build.0 = Debug|Win32
+		{B2DB4F2C-2D00-4DC0-A2DC-5DBD68B3A2BE}.Release|Win32.ActiveCfg = Release|Win32
+		{B2DB4F2C-2D00-4DC0-A2DC-5DBD68B3A2BE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

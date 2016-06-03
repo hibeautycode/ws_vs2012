@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "107.StringOperation", "107.StringOperation\107.StringOperation.vcxproj", "{9A2BE29E-D599-4855-B6D7-4DAFD5562EE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A2BE29E-D599-4855-B6D7-4DAFD5562EE6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9A2BE29E-D599-4855-B6D7-4DAFD5562EE6}.Debug|Win32.Build.0 = Debug|Win32
+		{9A2BE29E-D599-4855-B6D7-4DAFD5562EE6}.Release|Win32.ActiveCfg = Release|Win32
+		{9A2BE29E-D599-4855-B6D7-4DAFD5562EE6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
